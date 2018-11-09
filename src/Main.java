@@ -8,7 +8,7 @@ public class Main {
     // alt + `                      vcs operations
     // alt + 9                      version control view
     public int sum() {
-        int i = 3;
+        int i = 4;
         return i;
     }
 }
